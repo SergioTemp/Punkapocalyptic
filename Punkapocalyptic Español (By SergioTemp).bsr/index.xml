@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Punkapocalyptic Español (By SergioTemp)" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Punkapocalyptic (by SergioTemp).gstz" dataType="gamesystem" dataId="fab7-8d9f-25c5-73bc" dataName="Punkapocalyptic (by SergioTemp)" dataBattleScribeVersion="2.03" dataRevision="16"/>
+    <dataIndexEntry filePath="Irradiados.catz" dataType="catalogue" dataId="64e8-f331-6b0f-d5bf" dataName="Irradiados" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="V Reich.catz" dataType="catalogue" dataId="1830-0e8f-8c44-e0b3" dataName="V Reich" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Hijos de la Sangre Negra.catz" dataType="catalogue" dataId="0b4d-07e4-2e55-ecf7" dataName="Hijos de la Sangre Negra" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Chatarreros.catz" dataType="catalogue" dataId="c703-ae2f-fd22-36ec" dataName="Chatarreros" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Idos.catz" dataType="catalogue" dataId="bd07-6ba7-3edf-4ca0" dataName="Idos" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Mutardos.catz" dataType="catalogue" dataId="8d35-5bbf-09f3-40dd" dataName="Mutardos" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Pandilleros.catz" dataType="catalogue" dataId="141c-25bc-8b87-452e" dataName="Pandilleros" dataBattleScribeVersion="2.03" dataRevision="11"/>
+  </dataIndexEntries>
+</dataIndex>
